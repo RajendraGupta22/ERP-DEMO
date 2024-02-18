@@ -3,6 +3,7 @@
 - provides a demo Link/URL : http://13.233.84.57:8001
 - dummy user : demoerp
 - dummy password :
+- temp data ceated by user for testing will be removed after periodic interva
 
 ## the application provides solution for ERP for small scale bussiness
 ## from shop to mid lvl vendor
